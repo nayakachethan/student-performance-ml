@@ -22,5 +22,4 @@ This project predicts whether a student will **PASS or FAIL** based on:
 ## 🚀 Output
 The model predicts student performance and provides accuracy for evaluation.
 
-## 📌 Note
-This is a beginner-friendly project focused on understanding the ML pipeline.
+
